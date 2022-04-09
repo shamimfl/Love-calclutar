@@ -1,0 +1,16 @@
+
+.all{
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 40px;
+    background-image: linear-gradient( rgb(226, 13, 13), rgb(0, 0, 0));
+}
+.best{
+   visibility: hidden;
+}
+.button-submit{
+    border-radius: 20px;
+    width: 100%;
+    background-color: black;
+}
